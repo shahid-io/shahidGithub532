@@ -2,19 +2,9 @@
 <h3 align="center">FullStack Web Developer</h3>
 <img align="right" alt="coding" width="400" src="https://images.unsplash.com/photo-1617729420692-219af0d56dae?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1169&q=80">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shahidgithub532&label=Profile%20views&color=0e75b6&style=flat" alt="shahidgithub532" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shahidgithub532" alt="shahidgithub532" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/coderhooon" target="blank"><img src="https://img.shields.io/twitter/follow/coderhooon?logo=twitter&style=for-the-badge" alt="coderhooon" /></a> </p>
-
 - 🌱 I’m currently learning Backend Development **Pro Backend Development**
 
 - 💬 Ask me about **Java, JavaScript**
-
-- 📫 How to reach me **razashahid532@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Yrf1cd5Bqg6uwNS3W-u_ub_hhQ1sAYrA/view?usp=sharing](https://drive.google.com/file/d/1Yrf1cd5Bqg6uwNS3W-u_ub_hhQ1sAYrA/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
